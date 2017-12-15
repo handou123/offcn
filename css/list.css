@@ -1,0 +1,7 @@
+
+/*内容区*/
+#content h2{font-weight: normal;}
+#content span{float: right;}
+#content li{border: none;padding: 6px 15px;}
+#content li a{text-decoration: none;}
+#content #list{width: 450px;margin-left: 464px;}
